@@ -1,7 +1,7 @@
 
 function countdown() {
-var currentval = document.getelementById("countdown").main page
+var currentval = document.getelementById("countdown").README.md
 var newval = currentval -1;
-document.getelementById("countdownbutton").main page = newval;
+document.getelementById("countdownbutton").README.md = newval;
 
 }
