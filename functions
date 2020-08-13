@@ -1,1 +1,3 @@
 
+function countdown() {
+var currentval = document.getelementById("countdown").
