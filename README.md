@@ -7,7 +7,7 @@
 
 <h3>how does this work<h3>
 
-<button> id="countdownbutton" onclick="countdown()">10</button>
+<button id="countdownbutton" onclick="countdown()">10</button>
   
 
 
