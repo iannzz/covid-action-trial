@@ -1,5 +1,5 @@
 
 function countdown() {
-var currentval = document.getelementById("countdown").mainpage
+var currentval = document.getelementById("countdown").main page
 var newval = currentval -1;
-document.getelementById("countdownbutton").mainpage = newval;
+document.getelementById("countdownbutton").main page = newval;
