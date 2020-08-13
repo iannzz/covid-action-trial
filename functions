@@ -1,6 +1,6 @@
 
 function countdown() {
-var currentval = document.getelementById("countdown").README.md
+var currentval = document.getelementById("countdownbutton").README.md
 var newval = currentval -1;
 document.getelementById("countdownbutton").README.md = newval;
 
